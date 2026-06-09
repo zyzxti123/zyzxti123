@@ -10,7 +10,4 @@
 
 # 
 
-[![Twitter](https://img.shields.io/badge/Twitter-zyzxti-blue)](https://x.com/_zyzxti) 
-![Discord](https://img.shields.io/badge/Discord-zyzxti-blue)
-[![YouTube](https://img.shields.io/badge/Youtube-ZWare-blue)](https://www.youtube.com/@zyzxti-c4y) 
 [![Github](https://komarev.com/ghpvc/?username=zyzxti123)](https://github.com/zyzxti123)
